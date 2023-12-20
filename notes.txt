@@ -1,0 +1,2 @@
+-- Run local server from json-server. Json server needs to be installed.
+npm run server
